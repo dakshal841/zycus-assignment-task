@@ -1,0 +1,16 @@
+# LLM & Retrieval
+openai>=1.30.0
+chromadb>=0.4.24
+tiktoken>=0.7.0
+
+# Backend & Schemas
+fastapi>=0.111.0
+uvicorn>=0.30.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+
+# Evaluation & Testing
+pytest>=8.2.0
+
+# Optional UI Demo
+streamlit>=1.35.0

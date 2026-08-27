@@ -1,0 +1,60 @@
+{
+  "task_1_triage": {
+    "t1_1": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Passed structure and logic checks"
+    },
+    "t1_2": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Passed structure and logic checks"
+    },
+    "t1_3": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Passed structure and logic checks"
+    },
+    "t1_4": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Passed structure and logic checks"
+    },
+    "t1_5": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Passed structure and logic checks"
+    }
+  },
+  "task_2_tam_brief": {
+    "t2_1": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Passed synthesis checks"
+    },
+    "t2_2": {
+      "pass": false,
+      "score": 0.0,
+      "reason": "HTTP 404"
+    },
+    "t2_3": {
+      "pass": false,
+      "score": 0.0,
+      "reason": "HTTP 404"
+    },
+    "t2_4": {
+      "pass": false,
+      "score": 0.0,
+      "reason": "HTTP 404"
+    },
+    "t2_5": {
+      "pass": true,
+      "score": 1.0,
+      "reason": "Correctly handled invalid account"
+    }
+  },
+  "summary": {
+    "task_1_pass_rate": 1.0,
+    "task_2_pass_rate": 0.4
+  }
+}
